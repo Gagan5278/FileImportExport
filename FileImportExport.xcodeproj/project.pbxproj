@@ -18,6 +18,28 @@
 		CE534EFE1907EAB3006044D2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534EFD1907EAB3006044D2 /* Default-568h@2x.png */; };
 		CE534F011907EAB3006044D2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE534F001907EAB3006044D2 /* ViewController.m */; };
 		CE534F041907EAB3006044D2 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE534F021907EAB3006044D2 /* ViewController.xib */; };
+		CE534F1B1907EC57006044D2 /* audio~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F0B1907EC57006044D2 /* audio~iphone.png */; };
+		CE534F1C1907EC57006044D2 /* blank_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F0C1907EC57006044D2 /* blank_retina.png */; };
+		CE534F1D1907EC57006044D2 /* doc_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F0D1907EC57006044D2 /* doc_retina.png */; };
+		CE534F1E1907EC57006044D2 /* jpg_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F0E1907EC57006044D2 /* jpg_retina.png */; };
+		CE534F1F1907EC57006044D2 /* keynote_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F0F1907EC57006044D2 /* keynote_retina.png */; };
+		CE534F201907EC57006044D2 /* numbers_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F101907EC57006044D2 /* numbers_retina.png */; };
+		CE534F211907EC57006044D2 /* pages_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F111907EC57006044D2 /* pages_retina.png */; };
+		CE534F221907EC57006044D2 /* png_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F121907EC57006044D2 /* png_retina.png */; };
+		CE534F231907EC57006044D2 /* ppt_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F131907EC57006044D2 /* ppt_retina.png */; };
+		CE534F241907EC57006044D2 /* pptx_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F141907EC57006044D2 /* pptx_retina.png */; };
+		CE534F251907EC57006044D2 /* rtf_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F151907EC57006044D2 /* rtf_retina.png */; };
+		CE534F261907EC57006044D2 /* tiff_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F161907EC57006044D2 /* tiff_retina.png */; };
+		CE534F271907EC57006044D2 /* txt_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F171907EC57006044D2 /* txt_retina.png */; };
+		CE534F281907EC57006044D2 /* xls_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F181907EC57006044D2 /* xls_retina.png */; };
+		CE534F291907EC57006044D2 /* xlsx_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F191907EC57006044D2 /* xlsx_retina.png */; };
+		CE534F2A1907EC57006044D2 /* zip_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CE534F1A1907EC57006044D2 /* zip_retina.png */; };
+		CE534F311907FCCE006044D2 /* DemoDocFile.doc in Resources */ = {isa = PBXBuildFile; fileRef = CE534F2C1907FCCE006044D2 /* DemoDocFile.doc */; };
+		CE534F321907FCCE006044D2 /* DemoDocxFile.docx in Resources */ = {isa = PBXBuildFile; fileRef = CE534F2D1907FCCE006044D2 /* DemoDocxFile.docx */; };
+		CE534F331907FCCE006044D2 /* RTFDemo.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CE534F2E1907FCCE006044D2 /* RTFDemo.rtf */; };
+		CE534F341907FCCE006044D2 /* Workbook1DemoXLS.xls in Resources */ = {isa = PBXBuildFile; fileRef = CE534F2F1907FCCE006044D2 /* Workbook1DemoXLS.xls */; };
+		CE534F351907FCCE006044D2 /* WorkbookXLSXDemo.xlsx in Resources */ = {isa = PBXBuildFile; fileRef = CE534F301907FCCE006044D2 /* WorkbookXLSXDemo.xlsx */; };
+		CE534F371907FE3B006044D2 /* Rebate.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE534F361907FE3B006044D2 /* Rebate.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +59,28 @@
 		CE534EFF1907EAB3006044D2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		CE534F001907EAB3006044D2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CE534F031907EAB3006044D2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		CE534F0B1907EC57006044D2 /* audio~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio~iphone.png"; sourceTree = "<group>"; };
+		CE534F0C1907EC57006044D2 /* blank_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blank_retina.png; sourceTree = "<group>"; };
+		CE534F0D1907EC57006044D2 /* doc_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doc_retina.png; sourceTree = "<group>"; };
+		CE534F0E1907EC57006044D2 /* jpg_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jpg_retina.png; sourceTree = "<group>"; };
+		CE534F0F1907EC57006044D2 /* keynote_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keynote_retina.png; sourceTree = "<group>"; };
+		CE534F101907EC57006044D2 /* numbers_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = numbers_retina.png; sourceTree = "<group>"; };
+		CE534F111907EC57006044D2 /* pages_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pages_retina.png; sourceTree = "<group>"; };
+		CE534F121907EC57006044D2 /* png_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = png_retina.png; sourceTree = "<group>"; };
+		CE534F131907EC57006044D2 /* ppt_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ppt_retina.png; sourceTree = "<group>"; };
+		CE534F141907EC57006044D2 /* pptx_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pptx_retina.png; sourceTree = "<group>"; };
+		CE534F151907EC57006044D2 /* rtf_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rtf_retina.png; sourceTree = "<group>"; };
+		CE534F161907EC57006044D2 /* tiff_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tiff_retina.png; sourceTree = "<group>"; };
+		CE534F171907EC57006044D2 /* txt_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = txt_retina.png; sourceTree = "<group>"; };
+		CE534F181907EC57006044D2 /* xls_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xls_retina.png; sourceTree = "<group>"; };
+		CE534F191907EC57006044D2 /* xlsx_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xlsx_retina.png; sourceTree = "<group>"; };
+		CE534F1A1907EC57006044D2 /* zip_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zip_retina.png; sourceTree = "<group>"; };
+		CE534F2C1907FCCE006044D2 /* DemoDocFile.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = DemoDocFile.doc; sourceTree = "<group>"; };
+		CE534F2D1907FCCE006044D2 /* DemoDocxFile.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = DemoDocxFile.docx; sourceTree = "<group>"; };
+		CE534F2E1907FCCE006044D2 /* RTFDemo.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = RTFDemo.rtf; sourceTree = "<group>"; };
+		CE534F2F1907FCCE006044D2 /* Workbook1DemoXLS.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = Workbook1DemoXLS.xls; sourceTree = "<group>"; };
+		CE534F301907FCCE006044D2 /* WorkbookXLSXDemo.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WorkbookXLSXDemo.xlsx; sourceTree = "<group>"; };
+		CE534F361907FE3B006044D2 /* Rebate.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Rebate.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +140,8 @@
 		CE534EEE1907EAB3006044D2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CE534F2B1907FCBB006044D2 /* DemoFiles */,
+				CE534F0A1907EC3F006044D2 /* imageIconSet */,
 				CE534EEF1907EAB3006044D2 /* FileImportExport-Info.plist */,
 				CE534EF01907EAB3006044D2 /* InfoPlist.strings */,
 				CE534EF31907EAB3006044D2 /* main.m */,
@@ -105,6 +151,42 @@
 				CE534EFD1907EAB3006044D2 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE534F0A1907EC3F006044D2 /* imageIconSet */ = {
+			isa = PBXGroup;
+			children = (
+				CE534F0B1907EC57006044D2 /* audio~iphone.png */,
+				CE534F0C1907EC57006044D2 /* blank_retina.png */,
+				CE534F0D1907EC57006044D2 /* doc_retina.png */,
+				CE534F0E1907EC57006044D2 /* jpg_retina.png */,
+				CE534F0F1907EC57006044D2 /* keynote_retina.png */,
+				CE534F101907EC57006044D2 /* numbers_retina.png */,
+				CE534F111907EC57006044D2 /* pages_retina.png */,
+				CE534F121907EC57006044D2 /* png_retina.png */,
+				CE534F131907EC57006044D2 /* ppt_retina.png */,
+				CE534F141907EC57006044D2 /* pptx_retina.png */,
+				CE534F151907EC57006044D2 /* rtf_retina.png */,
+				CE534F161907EC57006044D2 /* tiff_retina.png */,
+				CE534F171907EC57006044D2 /* txt_retina.png */,
+				CE534F181907EC57006044D2 /* xls_retina.png */,
+				CE534F191907EC57006044D2 /* xlsx_retina.png */,
+				CE534F1A1907EC57006044D2 /* zip_retina.png */,
+			);
+			path = imageIconSet;
+			sourceTree = "<group>";
+		};
+		CE534F2B1907FCBB006044D2 /* DemoFiles */ = {
+			isa = PBXGroup;
+			children = (
+				CE534F361907FE3B006044D2 /* Rebate.pdf */,
+				CE534F2C1907FCCE006044D2 /* DemoDocFile.doc */,
+				CE534F2D1907FCCE006044D2 /* DemoDocxFile.docx */,
+				CE534F2E1907FCCE006044D2 /* RTFDemo.rtf */,
+				CE534F2F1907FCCE006044D2 /* Workbook1DemoXLS.xls */,
+				CE534F301907FCCE006044D2 /* WorkbookXLSXDemo.xlsx */,
+			);
+			path = DemoFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +245,28 @@
 				CE534EFC1907EAB3006044D2 /* Default@2x.png in Resources */,
 				CE534EFE1907EAB3006044D2 /* Default-568h@2x.png in Resources */,
 				CE534F041907EAB3006044D2 /* ViewController.xib in Resources */,
+				CE534F1B1907EC57006044D2 /* audio~iphone.png in Resources */,
+				CE534F1C1907EC57006044D2 /* blank_retina.png in Resources */,
+				CE534F1D1907EC57006044D2 /* doc_retina.png in Resources */,
+				CE534F1E1907EC57006044D2 /* jpg_retina.png in Resources */,
+				CE534F1F1907EC57006044D2 /* keynote_retina.png in Resources */,
+				CE534F201907EC57006044D2 /* numbers_retina.png in Resources */,
+				CE534F211907EC57006044D2 /* pages_retina.png in Resources */,
+				CE534F221907EC57006044D2 /* png_retina.png in Resources */,
+				CE534F231907EC57006044D2 /* ppt_retina.png in Resources */,
+				CE534F241907EC57006044D2 /* pptx_retina.png in Resources */,
+				CE534F251907EC57006044D2 /* rtf_retina.png in Resources */,
+				CE534F261907EC57006044D2 /* tiff_retina.png in Resources */,
+				CE534F271907EC57006044D2 /* txt_retina.png in Resources */,
+				CE534F281907EC57006044D2 /* xls_retina.png in Resources */,
+				CE534F291907EC57006044D2 /* xlsx_retina.png in Resources */,
+				CE534F2A1907EC57006044D2 /* zip_retina.png in Resources */,
+				CE534F311907FCCE006044D2 /* DemoDocFile.doc in Resources */,
+				CE534F321907FCCE006044D2 /* DemoDocxFile.docx in Resources */,
+				CE534F331907FCCE006044D2 /* RTFDemo.rtf in Resources */,
+				CE534F341907FCCE006044D2 /* Workbook1DemoXLS.xls in Resources */,
+				CE534F351907FCCE006044D2 /* WorkbookXLSXDemo.xlsx in Resources */,
+				CE534F371907FE3B006044D2 /* Rebate.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +317,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Bausch & Lomb";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Bausch & Lomb";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -228,6 +333,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -244,7 +351,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Bausch & Lomb";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Bausch & Lomb";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -252,6 +360,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -260,10 +370,14 @@
 		CE534F081907EAB3006044D2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Bausch & Lomb";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Bausch & Lomb";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FileImportExport/FileImportExport-Prefix.pch";
 				INFOPLIST_FILE = "FileImportExport/FileImportExport-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -271,10 +385,14 @@
 		CE534F091907EAB3006044D2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Bausch & Lomb";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Bausch & Lomb";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FileImportExport/FileImportExport-Prefix.pch";
 				INFOPLIST_FILE = "FileImportExport/FileImportExport-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D9E52C64-EB35-4CC3-9FC1-7C384526CB60";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UIDocumentInteractionControllerDelegate,UITableViewDataSource,UITableViewDataSource>
+{
+    UIDocumentInteractionController *documentController;
+    NSMutableArray *mutableArray;
+    __weak IBOutlet UITableView *myTableView;
+}
 
 @end

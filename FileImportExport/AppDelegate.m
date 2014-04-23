@@ -49,4 +49,26 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
+-(BOOL)application:(UIApplication *)application handleOpenURL:(NSURL *)url{
+    if(url!=nil && [url isFileURL])// used to import documents from another apps/mail
+    {
+        NSData *data=[NSData dataWithContentsOfURL:url];
+        NSString *fileName=[[url path] lastPathComponent];
+        NSString *stringFolder=[NSString stringWithFormat:@"Documents"];
+        NSString *dataPath = [NSHomeDirectory() stringByAppendingPathComponent:stringFolder ];
+        dataPath=[dataPath stringByAppendingPathComponent:fileName];
+        NSFileManager *fileManager=[NSFileManager defaultManager];
+        if(![fileManager fileExistsAtPath:dataPath])
+        {
+            BOOL success=[data writeToFile:dataPath atomically:YES];
+            if(success)
+            {
+                NSLog(@"File Saved SuccessFully");
+            }
+        }
+        return YES;
+    }
+    return NO;
+}
+
 @end
